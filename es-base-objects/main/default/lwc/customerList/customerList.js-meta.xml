@@ -11,4 +11,4 @@
             <property name="sobject" datasource="Lead,Contact" type="String" />
         </targetConfig>
     </targetConfigs>
-</LightningComponentBundle
+</LightningComponentBundle>
